@@ -1,0 +1,8 @@
+﻿"Pin Shaft Diameter"= .87in
+"Base Length"= "D1@Boss-Extrude3"
+"D1@Sketch1"= "Pin Shaft Diameter" + .375'The pin head diameter is .375 inches bigger than the pin shaft diamter.
+"D1@Boss-Extrude1"= "Pin Shaft Diameter" / 1.5
+"D1@Boss-Extrude2"= "Base Length"
+"D1@Sketch4"= "Pin Shaft Diameter" + .0005
+"D1@Sketch2"= "Pin Shaft Diameter"
+"Chamfer1"= IIF ( "Pin Shaft Diameter" < 1mm , "suppressed" , "unsuppressed" )
