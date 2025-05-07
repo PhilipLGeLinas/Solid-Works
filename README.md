@@ -1,2 +1,2 @@
 # SolidWorks
-A collection of my own CAD projects
+A collection of CAD and parametric modeling projects
